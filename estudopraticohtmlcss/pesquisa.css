@@ -1,0 +1,33 @@
+nav{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    text-align: center;
+
+}
+a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+#pesquisa{
+    font-size: large;
+    text-align: left;
+    margin-top: 20px;
+    width: 30%;
+    align-items: center;
+    position: absolute;
+    left: 35%;
+    outline: none;
+
+}
+#pesquisa:focus{
+    border: 1px solid #333;
+}
